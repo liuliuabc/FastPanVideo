@@ -8,7 +8,6 @@
       "persistent": true
    },
    "description": "百度网盘视频加速",
-   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAj19d5L39PBHZ6IFX8Qz5/ipW9OtrvRc3LQFMZ71Wyntk+qkT9QNStSwH6sOvBwlM+HisMRa/myow74WvifafsiXcPOoI9Ut7a+J6q0o+lT4qzgZKfAAt/VoE+yDdHB92IGn7jPojbv42eEUyUqGvYozSQU9ZQPwQO2OQNh2RJQiuHA84Y/6X7SIMctI1chDeSXxHWM8k7JHHtaRmPcQYGOYXxBUEsyAIxuCNypT12P3kJ2arLHf0KOsBr5FZV1+xERXx3XVjOOepYENnRN9BTs9536ZqdNOjVHCfklS/bIxnZmxaeFH5iJTMPVUT4s3HxG/r3canfwgLf6jdacGS4wIDAQAB",
    "manifest_version": 2,
    "name": "百度视频加速",
    "permissions": [ "activeTab", "storage","tabs","http://*/*", "https://*/*" ],
